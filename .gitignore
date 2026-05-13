@@ -1,0 +1,5 @@
+# Bỏ qua file rác của Code::Blocks
+bin/
+obj/
+*.layout
+*.depend
