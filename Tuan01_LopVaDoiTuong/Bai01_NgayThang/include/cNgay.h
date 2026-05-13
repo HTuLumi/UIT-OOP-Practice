@@ -15,6 +15,8 @@ class cNgay
 
     private:
         int ngay, thang, nam;
+        int SoNgayTrongThang(int m, int y);
+        bool KiemTraHopLe(int d, int m, int y);
 
 };
 
